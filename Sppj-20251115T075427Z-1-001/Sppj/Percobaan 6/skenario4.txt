@@ -1,0 +1,542 @@
+
+============================================================
+PING IDLE: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=26.9 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=0.743 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=0.120 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=0.099 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=0.089 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=0.083 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=0.083 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=0.114 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=0.063 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=0.119 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9160ms
+rtt min/avg/max/mdev = 0.063/2.845/26.945/8.035 ms
+
+
+============================================================
+PING IDLE: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.101 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9211ms
+pipe 4
+
+
+============================================================
+PING BUSY: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=1.04 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=0.077 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=0.089 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=0.075 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=0.078 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=0.074 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=0.073 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=0.074 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=0.073 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=0.071 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9174ms
+rtt min/avg/max/mdev = 0.071/0.172/1.037/0.288 ms
+
+
+============================================================
+PING BUSY: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, 100% paket hilang, waktu 9178ms
+
+
+
+============================================================
+PING IDLE: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=24.0 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=0.708 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=0.071 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=0.051 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=0.069 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=0.060 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=0.086 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=0.089 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=0.070 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=0.096 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9175ms
+rtt min/avg/max/mdev = 0.051/2.532/24.028/7.167 ms
+
+
+============================================================
+PING IDLE: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=37.9 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=3.01 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=2.87 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=2.70 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=5.43 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=2.81 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=5.09 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=2.99 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=2.94 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=3.18 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9040ms
+rtt min/avg/max/mdev = 2.698/6.894/37.931/10.387 ms
+
+
+============================================================
+PING BUSY: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=1.35 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=0.048 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=0.750 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=0.238 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=0.136 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=0.434 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=0.140 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=0.349 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=0.051 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=0.052 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9143ms
+rtt min/avg/max/mdev = 0.048/0.354/1.346/0.391 ms
+
+
+============================================================
+PING BUSY: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=4.21 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=4.44 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=3.41 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=4.56 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=2.83 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=3.11 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=2.74 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=3.70 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=4.12 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=4.83 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9013ms
+rtt min/avg/max/mdev = 2.736/3.795/4.834/0.709 ms
+
+
+============================================================
+PING IDLE: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=0.111 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=0.087 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=0.136 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=0.077 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=0.114 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=0.307 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=0.065 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=0.080 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=0.111 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=0.181 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9262ms
+rtt min/avg/max/mdev = 0.065/0.126/0.307/0.068 ms
+
+
+============================================================
+PING IDLE: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=6.16 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=7.97 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=4.44 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=4.17 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=3.60 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=15.4 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=3.93 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=6.05 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=2.70 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=6.34 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9036ms
+rtt min/avg/max/mdev = 2.699/6.078/15.435/3.460 ms
+
+
+============================================================
+PING BUSY: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=1.04 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=0.230 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=0.404 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=0.265 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=0.052 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=0.624 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=0.515 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=0.388 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=0.054 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=1.62 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9191ms
+rtt min/avg/max/mdev = 0.052/0.518/1.617/0.457 ms
+
+
+============================================================
+PING BUSY: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+64 byte dari 10.0.0.30: icmp_seq=1 ttl=64 waktu=5.40 ms
+64 byte dari 10.0.0.30: icmp_seq=2 ttl=64 waktu=4.39 ms
+64 byte dari 10.0.0.30: icmp_seq=3 ttl=64 waktu=4.97 ms
+64 byte dari 10.0.0.30: icmp_seq=4 ttl=64 waktu=4.98 ms
+64 byte dari 10.0.0.30: icmp_seq=5 ttl=64 waktu=3.54 ms
+64 byte dari 10.0.0.30: icmp_seq=6 ttl=64 waktu=4.74 ms
+64 byte dari 10.0.0.30: icmp_seq=7 ttl=64 waktu=4.20 ms
+64 byte dari 10.0.0.30: icmp_seq=8 ttl=64 waktu=5.15 ms
+64 byte dari 10.0.0.30: icmp_seq=9 ttl=64 waktu=3.39 ms
+64 byte dari 10.0.0.30: icmp_seq=10 ttl=64 waktu=3.78 ms
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 10 diterima, 0% paket hilang, waktu 9014ms
+rtt min/avg/max/mdev = 3.394/4.454/5.398/0.669 ms
+
+
+============================================================
+PING IDLE: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.10 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9205ms
+pipe 4
+
+
+============================================================
+PING IDLE: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.101 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9435ms
+pipe 4
+
+
+============================================================
+PING BUSY: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.10 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9224ms
+pipe 4
+
+
+============================================================
+PING BUSY: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.101 icmp_seq=7 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +1 error, 100% paket hilang, waktu 9114ms
+
+
+
+============================================================
+PING IDLE: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.10 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9307ms
+pipe 4
+
+
+============================================================
+PING IDLE: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.101 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9345ms
+pipe 4
+
+
+============================================================
+PING BUSY: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.10 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9210ms
+pipe 4
+
+
+============================================================
+PING BUSY: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.101 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +2 error, 100% paket hilang, waktu 9147ms
+
+
+
+============================================================
+PING IDLE: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.10 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9376ms
+pipe 4
+
+
+============================================================
+PING IDLE: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.101 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9489ms
+pipe 4
+
+
+============================================================
+PING BUSY: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.10 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9200ms
+pipe 4
+
+
+============================================================
+PING BUSY: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, 100% paket hilang, waktu 9180ms
+
+
+
+============================================================
+PING IDLE: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.10 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9363ms
+pipe 4
+
+
+============================================================
+PING IDLE: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.101 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.101 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9171ms
+pipe 4
+
+
+============================================================
+PING BUSY: h_buku -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.10 icmp_seq=1 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=2 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=3 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=4 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=5 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=6 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=7 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=8 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=9 Host Tujuan Tidak Terjangkau
+Dari 10.0.0.10 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +10 error, 100% paket hilang, waktu 9222ms
+pipe 4
+
+
+============================================================
+PING BUSY: sta1 -> h_admin (10 paket)
+============================================================
+
+PING 10.0.0.30 (10.0.0.30) 56(84) bytes of data.
+Dari 10.0.0.101 icmp_seq=10 Host Tujuan Tidak Terjangkau
+
+--- statistik ping 10.0.0.30 ---
+10 paket dikirim, 0 diterima, +1 error, 100% paket hilang, waktu 9142ms
+
+

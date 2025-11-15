@@ -1,0 +1,46 @@
+
+============================================================
+iperf TCP h_buku -> h_admin (prioritas, 20s)
+============================================================
+
+------------------------------------------------------------
+Client connecting to 10.0.0.30, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.10 port 51478 connected with 10.0.0.30 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-20.0 sec   226 MBytes  94.7 Mbits/sec
+
+
+============================================================
+iperf TCP h_buku -> h_admin (prioritas, 20s)
+============================================================
+
+------------------------------------------------------------
+Client connecting to 10.0.0.30, TCP port 5001
+TCP window size:  170 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.10 port 46440 connected with 10.0.0.30 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-20.0 sec   137 MBytes  57.5 Mbits/sec
+
+
+============================================================
+iperf TCP h_buku -> h_admin (prioritas, 20s)
+============================================================
+
+------------------------------------------------------------
+Client connecting to 10.0.0.30, TCP port 5001
+TCP window size:  187 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.10 port 34650 connected with 10.0.0.30 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-20.0 sec   115 MBytes  48.1 Mbits/sec
+
+
+============================================================
+iperf TCP h_buku -> h_admin (prioritas, 20s)
+============================================================
+
+connect failed: No route to host
+
